@@ -1,1 +1,1 @@
-# Java_JDBC
+Estudo de Java JDBC usando Mysql
